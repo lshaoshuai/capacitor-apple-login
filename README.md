@@ -7,7 +7,7 @@
 
 ## Installation
 
-- `npm i https://github.com/rlfrahm/capacitor-apple-login`
+- `npm i https://github.com/lshaoshuai/capacitor-apple-login`
 
 ## Usage (iOS)
 
